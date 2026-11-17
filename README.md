@@ -15,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.# devfolio_app
+
+for use the aplication u need use the command
+python3 -m http.server 8282 --bind 0.0.0.0
